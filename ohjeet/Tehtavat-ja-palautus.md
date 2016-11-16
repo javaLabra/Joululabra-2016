@@ -1,8 +1,8 @@
 ﻿#Tehtävät ja palautus
 
-**Deadline on palautuksille perjantaisin klo 23:59. Lopullinen palautus perjantaina 16.12. klo 23:59**
+**Deadline on palautuksille perjantaisin klo 23:59. Lopullinen palautus sunnuntaina 15.1. klo 23:59**
 
-Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse labtoolista oman periodisi kurssi (Javalabra2016-2).** Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin GitHub-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
+Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse labtoolista oman periodisi kurssi (Joululabta2016).** Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin GitHub-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
 
 [Git-ohje](Git-ohje.md)
 
@@ -15,31 +15,31 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
-### Deadline 1, pe 4.11. klo 23:59
+### Deadline 1, ke 21.12. klo 23:59
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
 
-### Deadline 2, pe 11.11. klo 23:59
+### Deadline 2, ti 27.12. klo 23:59
 * [Deadlinen 2 vaatimukset](Deadline-2.md)
 
-### Deadline 3, pe 18.11. klo 23:59
+### Deadline 3, la 31.12. klo 23:59
 * [Deadlinen 3 vaatimukset](Deadline-3.md)
 
-### Ensimmäinen katselmointi, su 20.11. klo 23:59
+### Ensimmäinen katselmointi, la 31.12. klo 23:59
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline 4, pe 25.11. klo 23:59
+### Deadline 4, ke 4.1. klo 23:59
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
 
-### Deadline 5, pe 2.12. klo 23:59
+### Deadline 5, su 8.1. klo 23:59
 * [Deadlinen 5 vaatimukset](Deadline-5.md)
 
-### Toinen katselmointi, su 4.12. klo 23:59
+### Toinen katselmointi, su 8.1. klo 23:59
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline 6 pe 9.12. klo 23:59
+### Deadline 6 ke 11.1. klo 23:59
 * [Deadlinen 6 vaatimukset](Deadline-6.md)
 
-### Loppupalautus pe 16.12. klo 23:59
+### Loppupalautus su 15.1. klo 23:59
 * [Loppupalautuksen checklist!](Deadline-loppupalautus.md)
 
 ### Demot
