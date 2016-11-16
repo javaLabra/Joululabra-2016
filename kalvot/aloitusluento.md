@@ -1,16 +1,16 @@
 % Aineopintojen harjoitustyö: Ohjelmointi (Javalabra)
-% Saska Dönges, Antti Haapaniemi
-% 31.10.2016
+% Saska Dönges, Antti Karvonen
+% 16.11.2016
 
 # Ohjaajat
 
 - Ohjaajat
-    - Saska Dönges -- **saskeli**
-    - Antti Haapaniemi -- **Pallero**
+    - Saska Dönges -- **saskeli** -- etunimi@cs.helsinki.fi
+    - Antti Karvonen -- **dvl** -- etunimi.sukunimi@gmail.com 
 - Yhteyttä sähköpostilla tai irkissä
-    - etunimi.sukunimi@helsinki.fi 
+
 - IRC-kanava **#javalabra2016** @ IRCnet
-- Kurssisivu https://github.com/javaLabra/Javalabra2016-2
+- Kurssisivu https://github.com/javaLabra/Joululabra-2016
 
 # Mistä kyse?
 
@@ -73,9 +73,9 @@
 
 # Kurssin kulku
 
-- Jokaisen viikon perjantaina **deadline** kello 23:59
+- **Deadlinet** aikataulun mukaan aina kello 23:59
     - Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti
-    - Ensimmäinen deadline **tämän viikon perjantaina!**
+    - Ensimmäinen deadline **tämän viikon keskiviikkona!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
@@ -85,9 +85,7 @@
 # Kurssin kulku
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa
-    - Pajaa tarjolla:
-    	- **ti 14-16**
-    	- **to 14-16**
+    - Pajaa tarjolla, aikataulu kurssisivulla
     - Luokassa **BK107** (kellarikerroksen pajaluokka)
         
     - Vapaaehtoista
@@ -104,7 +102,7 @@
 # Kurssin kulku
 
 - Kurssin lopuksi pakollinen **demotilaisuus**
-    - Jokainen opiskelija esittelee muille projektiaan jotakuinkin viiden minuutin ajan
+    - Jokainen opiskelija esittelee muille projektiaan jotakuinkin 3-5 minuutin ajan
     - Opiskelijat paikalla koko demotilaisuuden ajan
     - Harjoitustyön ei tarvitse olla demossa vielä aivan valmis
 - Kurssilla **ei ole kurssikoetta**
@@ -121,7 +119,7 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Muistakaa -- ensimmäinen deadline tämän viikon perjantaina klo 23:59
-- Kaikki tarvittava löytyy kurssisivulta: https://github.com/javaLabra/Javalabra2016-2
+- Muistakaa -- ensimmäinen deadline tämän viikon keskiviikkona (YLIHUOMENNA) klo 23:59
+- Kaikki tarvittava löytyy kurssisivulta: https://github.com/javaLabra/Joululabra-2016
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin
