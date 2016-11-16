@@ -13,7 +13,7 @@
 * [Checkstyle](ohjeet/Checkstyle.md)
 
 **Ohjaajat:**
-* Saska Döges (saskeli) etunimi@cs.helsinki.fi
+* Saska Dönges (saskeli) etunimi@cs.helsinki.fi
 * Antti Karvonen (dvl) etunimi.sukunimi@gmail.com
 
 **Kurssin IRC-kanava**:
