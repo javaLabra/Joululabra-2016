@@ -34,7 +34,7 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
   * Tehtävägeneraattori, joka antaa käyttäjälle tehtävän sekä mallivastauksen (esim. matematiikkaa, fysiikkaa, kemiaa, ...)
   * Opintojen seurantajärjestelmä
   * Tekstieditori ("Notepad-klooni") 
-  * IRC-botti
+  * IRC- tai Slack-botti
   * Code Snippet Manageri
   * Laskin, funktiolaskin, graafinen laskin
   * Budjetointi-sovellus
@@ -48,9 +48,10 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
   * Tower Defence
   * Asteroids
   * Space Invaders
+  * Yksinkertainen tasohyppypeli, esimerkiksi The Impossible Game
 
 * Vuoropohjaiset pelit
-  * Shakki
+  * Tammi
   * Yatzy
   * Miinaharava
   * Laivanupotus
