@@ -40,6 +40,6 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
 
-* **HUOM! 2** **Demotilaisuus järjestetään viikolla 2. Aika ja paikka varmistuvat kurssin kuluessa**
+* **HUOM 2!** **Demotilaisuus järjestetään viikolla 2. Aika ja paikka varmistuvat kurssin kuluessa**
 
 * Lopullinen palautus - sunnuntaina 15.1.2017 klo 23.59. Tällöin jokaisen osallistujan projekti ladataan GitHubista ja arvostellaan sellaisenaan
