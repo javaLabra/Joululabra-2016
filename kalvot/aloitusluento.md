@@ -9,7 +9,7 @@
     - Antti Karvonen -- **dvl** -- etunimi.sukunimi@gmail.com 
 - Yhteyttä sähköpostilla tai irkissä
 
-- IRC-kanava **#javalabra2016** @ IRCnet
+- IRC-kanava **#javalabra** @ IRCnet
 - Kurssisivu https://github.com/javaLabra/Joululabra-2016
 
 # Mistä kyse?
