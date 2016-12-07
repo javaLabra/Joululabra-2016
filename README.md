@@ -17,7 +17,7 @@
 * Antti Karvonen (dvl) etunimi.sukunimi@gmail.com
 
 **Kurssin IRC-kanava**:
-\#javalabra2016 @ IRCnet
+\#javalabra @ IRCnet
 
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta pajassa, IRCissä tai lähetä sähköpostia.
 
