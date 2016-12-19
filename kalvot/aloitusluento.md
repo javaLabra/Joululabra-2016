@@ -44,9 +44,8 @@
 # Kurssin sisältö
 
 - Esimerkkiaiheita:
-    - Pacman
-    - Shakki
-    - Laivanupotus
+    - Pacman, laivanupotus, Tetris, Pong, miinaharava, muistipeli
+    - Yksinkertainen tekstieditori, laskin
     - Fysiikkasimulaattori
     - Lisää esimerkkiaiheita kurssisivulla
 - Pelit suosittuja, reaaliaikaiset pelit vähän haasteellisempia mutta toteutettavissa
@@ -87,9 +86,9 @@
 - Kurssin aikana tarjolla **ohjausta** eli pajaa
     - Pajaa tarjolla, aikataulu kurssisivulla
     - Luokassa **BK107** (kellarikerroksen pajaluokka)
-        
-    - Vapaaehtoista
+    - Täysin vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
+    - IRC ei ole virallinen tietolähde, vaikka onkin kätevä
 
 # Kurssin kulku
 
