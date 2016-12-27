@@ -200,3 +200,5 @@ No mutations found. This probably means there is an issue with either the suppli
 * Tarkista että testisi ovat ohjelmakoodia vastaavissa paketeissa. Eli jos testaat ristinolla.logiikka- paketissa olevaa Ruutu-oliota, pitää Test Packagesissa olla paketti ristinolla.logiikka, jonka sisällä on RuutuTest.
 
 * Jos Pit-raportti generoidaan oikein, mutta se näyttää 0% kaikessa vaikka toimivia testejä on, tarkista että testitiedostojen alussa on testitiedoston pakettia vastaava pakettimäärittely, esim: `package superohjelma.logiikka` 
+
+* Myös jos pakettirakenteessasi on sana 'java', niin Pit-raportti voi generoitua näyttämään 0% rivi- ja mutaatiokattavuudeksi. Esimerkiksi 'javalabra.korttipeli' EI siis toimi ja paketin 'javalabra' nimi täytyy muuttaa. Muista tarvittaessa korjata myös pom.xml:n groupId.
